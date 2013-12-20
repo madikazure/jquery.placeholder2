@@ -1,0 +1,15 @@
+.placeholder2 {
+	display: block;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	border: none;
+	
+	color: #A1A1A1;
+	font-size: 12px;
+	
+	overflow: hidden;
+	white-space: nowrap;
+	cursor: text;
+	pointer-events: none;
+}
